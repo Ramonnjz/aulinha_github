@@ -1,2 +1,2 @@
 # aulinha_github
-Aula repositorio sobre git e github
+Aula explicatória de uso de git e github
